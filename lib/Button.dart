@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'Util.dart';
 
-ElevatedButton button ({
+Widget button ({
   required String text,
   VoidCallback? onPressed,
 }){
